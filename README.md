@@ -25,5 +25,4 @@ it will display a notice message saying, <br>
   <li><b>API unsplash :</b> to allow our program to fetch data from their database.</li> 
   <br>
   <li><b>VS Code :</b> as my text editor.</li>
-  <li><b>Adobe Photoshop :</b> to create the icons.</li>
 </ul>
