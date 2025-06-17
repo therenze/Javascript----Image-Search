@@ -17,7 +17,7 @@ it will display a notice message saying, <br>
 ![image](https://github.com/therenze/Javascript----Image-Search/blob/main/img/1.PNG)
 
 
-# Who helped me to craft this ?
+# Who helped me to craft this shit?
 <ul>
   <li><b>HTML :</b> to make the structure of the website page.</li>
   <li><b>CSS :</b> to add style, make the page more appealing.</li>
